@@ -2,92 +2,101 @@
   Profile README for https://github.com/bsd-code
   Keep this repository named exactly `bsd-code` so GitHub displays it on your profile.
 
-  External services are used for the animated header and GitHub statistics.
-  Their availability and displayed data may change independently of this repository.
+  Visual identity: monochrome manga aesthetic with a restrained red accent.
+  External services power the animated header and statistics; their availability and data can change.
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:3730A3,100:0D9488&height=210&section=header&text=MrSavvy&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=ANDROID%20DEVELOPMENT%20%7C%20KOTLIN&descSize=17&descAlignY=59" width="100%" alt="MrSavvy — Android development and Kotlin" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,55:242424,100:7F1D1D&height=205&section=header&text=MrSavvy&fontSize=60&fontColor=F5F5F5&fontAlignY=38&desc=ANDROID%20DEVELOPMENT%20%7C%20KOTLIN&descSize=16&descAlignY=59" width="100%" alt="MrSavvy — Android development and Kotlin" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=DAM+Student+%7C+Software+Development;Learning+Android+with+Kotlin;Build.+Debug.+Learn.+Improve." alt="DAM student learning Android and Kotlin" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=E05260&center=true&vCenter=true&width=650&lines=DAM+Student+%7C+Software+Development;Learning+Android+with+Kotlin;Build.+Debug.+Learn.+Improve." alt="DAM student learning Android and Kotlin" />
 </p>
 
-## 👋 About me
+<p align="center"><sub><b>冷静</b> &nbsp;·&nbsp; Quiet focus. Consistent progress.</sub></p>
+
+<p align="center">
+  <a href="https://github.com/bsd-code"><img src="https://img.shields.io/badge/GitHub-bsd--code-202020?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" /></a>
+  <a href="https://www.youtube.com/@MrSavvy-RL"><img src="https://img.shields.io/badge/YouTube-MrSavvy--RL-202020?style=flat-square&logo=youtube&logoColor=E05260" alt="MrSavvy RL YouTube channel" /></a>
+</p>
+
+---
+
+## About me
 
 I'm **MrSavvy**, a **Multiplatform Application Development (DAM)** student focused on learning how to build Android applications with Kotlin.
 
 I learn by building practical projects, debugging problems and documenting what I discover. I'm currently looking for **FCT internship opportunities** and opportunities to collaborate with other learners and developers.
 
-- 📱 **Main focus:** Android development, Kotlin and Firebase.
-- 🧩 **Working style:** understand the fundamentals, build in small steps and improve through testing and debugging.
-- 🌱 **Next goal:** contribute to open-source projects and keep turning coursework into practical projects.
+- **Main focus:** Android development, Kotlin and Firebase.
+- **Working style:** understand the fundamentals, build in small steps and improve through testing and debugging.
+- **Next goal:** contribute to open-source projects and keep turning coursework into practical projects.
 
-## 🧰 Technologies & tools
+## Technologies & tools
 
 These badges highlight my current direction, not a claim that I have mastered every tool. I'm continuing to develop my skills through coursework and projects.
 
 <p>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Android%20SDK-3DDC84?style=flat-square&logo=android&logoColor=111111" alt="Android SDK" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111111" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Cloud%20Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=111111" alt="Cloud Firestore" />
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" alt="Gradle" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Android%20Views%20%2F%20XML-3DDC84?style=flat-square&logo=android&logoColor=111111" alt="Android Views and XML layouts" />
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit" />
+  <img src="https://img.shields.io/badge/Kotlin-242424?style=flat-square&logo=kotlin&logoColor=E05260" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Java-242424?style=flat-square&logo=openjdk&logoColor=FFFFFF" alt="Java" />
+  <img src="https://img.shields.io/badge/Android%20SDK-242424?style=flat-square&logo=android&logoColor=E05260" alt="Android SDK" />
+  <img src="https://img.shields.io/badge/Firebase-242424?style=flat-square&logo=firebase&logoColor=E05260" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Cloud%20Firestore-242424?style=flat-square&logo=firebase&logoColor=FFFFFF" alt="Cloud Firestore" />
+  <img src="https://img.shields.io/badge/Gradle-242424?style=flat-square&logo=gradle&logoColor=FFFFFF" alt="Gradle" />
+  <img src="https://img.shields.io/badge/Git-242424?style=flat-square&logo=git&logoColor=E05260" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-242424?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Android%20Views%20%2F%20XML-242424?style=flat-square&logo=android&logoColor=FFFFFF" alt="Android Views and XML layouts" />
+  <img src="https://img.shields.io/badge/JUnit-242424?style=flat-square&logo=junit5&logoColor=E05260" alt="JUnit" />
 </p>
 
 **Also exploring:** Jetpack Compose, JavaScript, PHP/Laravel, Dart/Flutter, HTML/CSS, SQL, Docker, relational and NoSQL databases, and development tools across Windows and Linux.
 
-## 🚀 Featured project
+## Featured project
 
-### 🧊 [Smart Fridge — Firebase & AI](https://github.com/bsd-code/android-backend-cloud-app)
+### [Smart Fridge — Firebase & AI](https://github.com/bsd-code/android-backend-cloud-app)
 
 An Android application developed for the **A1 — Cloud Backend** module at Institut Marianao. It helps users manage their household fridge or pantry and get recipe suggestions based on the ingredients they have available.
 
 **Key features**
 
-- 🔐 **User authentication** with Firebase Authentication (email and password).
-- 🥬 **Ingredient management:** create, view, edit and delete ingredients stored in Cloud Firestore.
-- 🧠 **AI recipe suggestions** based on available ingredients, using Firebase AI Logic.
-- 📝 **Recipe formatting** with Markdown rendered through Markwon.
-- 📱 **Android interface** built with Android Views, ViewBinding and RecyclerView.
+- **User authentication:** sign up and sign in with Firebase Authentication using email and password.
+- **Ingredient management:** create, view, edit and delete ingredients stored in Cloud Firestore.
+- **AI recipe suggestions:** get recipe ideas based on available ingredients using Firebase AI Logic.
+- **Readable recipes:** display generated Markdown using Markwon.
+- **Android interface:** built with Android Views, ViewBinding and RecyclerView.
 
 **Documented stack:** Kotlin · Android SDK · Firebase Authentication · Cloud Firestore · Firebase AI Logic · Gradle · ViewBinding · RecyclerView · Markwon.
 
 <p>
-  <a href="https://github.com/bsd-code/android-backend-cloud-app"><img src="https://img.shields.io/badge/View%20repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Smart Fridge repository" /></a>
+  <a href="https://github.com/bsd-code/android-backend-cloud-app"><img src="https://img.shields.io/badge/VIEW%20PROJECT-7F1D1D?style=for-the-badge&logo=github&logoColor=white" alt="View Smart Fridge repository" /></a>
 </p>
 
-## 📊 GitHub activity
+## GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bsd-code&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub statistics for bsd-code" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsd-code&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Most-used languages in public repositories" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bsd-code&show_icons=true&rank_icon=github&theme=github_dark&hide_border=true&title_color=E05260&icon_color=E05260" alt="GitHub statistics for bsd-code" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsd-code&layout=compact&langs_count=6&theme=github_dark&hide_border=true&title_color=E05260" alt="Most-used languages in public repositories" />
 </p>
 
 <sub>These cards are generated by a third-party service. Language statistics reflect repository contents and are not a measure of proficiency.</sub>
 
-## 🤝 Goals
+## Goals
 
 - Keep improving my Android and Kotlin skills by building practical applications.
 - Strengthen my understanding of clean code, testing, debugging and documentation.
 - Make my first open-source contributions and learn from developer communities.
 - Find an FCT internship where I can learn from real projects and contribute to a team.
 
-## 📫 Connect
+## Connect
 
 <p>
-  <a href="https://github.com/bsd-code"><img src="https://img.shields.io/badge/GitHub-bsd--code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-  <a href="https://www.youtube.com/@MrSavvy-RL"><img src="https://img.shields.io/badge/YouTube-MrSavvy--RL-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="MrSavvy RL YouTube channel" /></a>
+  <a href="https://github.com/bsd-code"><img src="https://img.shields.io/badge/GitHub-bsd--code-202020?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+  <a href="https://www.youtube.com/@MrSavvy-RL"><img src="https://img.shields.io/badge/YouTube-MrSavvy--RL-202020?style=for-the-badge&logo=youtube&logoColor=E05260" alt="MrSavvy RL YouTube channel" /></a>
 </p>
 
 <!-- Add your real LinkedIn profile URL here when you want to display it publicly. -->
 
 ---
 
-<p align="center"><i>Learn with curiosity. Build with purpose. Improve with every commit.</i></p>
+<p align="center"><i>Stay calm. Keep building. Let the work speak.</i></p>
