@@ -1,98 +1,82 @@
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e45e2,50:88d3ce,100:6e45e2&height=200&text=Hola%20👋,%20soy%20Bilal&fontSize=40&fontColor=ffffff&animation=fadeIn&section=header" alt="Header de Bilal" />
-</h1>
-
-<h3 align="center">
-  Desarrollador de Aplicaciones Multiplataforma & Sistemas y Redes 🇪🇸
-</h3>
+<!--
+  GITHUB PROFILE README
+  Before publishing:
+  1. Replace every occurrence of YOUR_GITHUB_USERNAME with your exact GitHub username.
+  2. Keep the repository name exactly the same as your GitHub username.
+  3. Make the profile README repository public.
+-->
 
 <p align="center">
-  <a href="https://github.com/bsd-code?tab=followers">
-    <img src="https://img.shields.io/github/followers/bsd-code?label=Seguidores&style=for-the-badge&color=6e45e2&logo=github" alt="Seguidores de GitHub" />
-  </a>
-  <a href="https://komarev.com/ghpvc/?username=bsd-code">
-    <img src="https://komarev.com/ghpvc/?username=bsd-code&label=Visitas%20al%20perfil&color=6e45e2&style=for-the-badge" alt="Contador de visitas" />
-  </a>
-  <a href="mailto:bilalsd2007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-bilalsd2007@gmail.com-6e45e2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email de contacto" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0F172A,100:4338CA&height=220&section=header&text=SOFTWARE%20DEVELOPMENT&fontSize=35&fontColor=FFFFFF&fontAlignY=40&desc=Learning%20by%20building%20%E2%80%A2%20improving%20every%20commit&descSize=15&descAlignY=62" alt="Software development banner" width="100%" />
 </p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=800&color=818CF8&center=true&vCenter=true&width=650&lines=Learning+Kotlin+and+Android+development;Building+projects+one+step+at+a+time;Understanding+how+software+works+under+the+hood" alt="A short animated introduction" />
+</p>
 
-### 🚀 Sobre Mí
-
-Soy un apasionado del desarrollo de **aplicaciones multiplataforma** y de la **infraestructura de sistemas y redes**. Mi enfoque combina la creación de experiencias móviles fluidas con la robustez de un backend bien diseñado. Disfruto especialmente del diseño de interfaces (UI/UX), la optimización de sistemas en **Linux** y la integración de servicios en la nube como **Firebase**.
-
-- 🔭 **Actualmente trabajando en:** [Smart Fridge App](https://github.com/bsd-code/android-backend-cloud-app) (Nevera inteligente con Kotlin, Firebase y AI).
-- 🌱 **Actualmente aprendiendo:** Dart, Flutter, Kotlin (Android), Java avanzado y Firebase.
-- 🤝 **Buscando ayuda con:** Optimización de prompts de IA y arquitecturas móviles avanzadas.
-- 💬 **Pregúntame sobre:** Linux, Diseño de interfaz (UI/UX) y Desarrollo de aplicaciones móviles.
-- ⚡ **Dato curioso:** El modo claro me lastima los ojos; el modo oscuro alimenta mi alma 🌙.
-
----
-
-### 🛠️ Mi Stack Tecnológico
+<h1 align="center">Hey, I'm a software development student 👋</h1>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=android,kotlin,java,dart,flutter,firebase,html,css,js,php,linux,git,docker,mysql,mongodb,figma&theme=dark&perline=8" alt="Stack Tecnológico de Bilal" />
+  I'm building my foundations in programming by writing code, experimenting, and learning how things work behind the scenes.
+  <br />
+  My current focus is <strong>Kotlin and Android development</strong>.
+</p>
+
+<p align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20my%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub repositories" />
   </a>
 </p>
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
+## 👨‍💻 About me
+
+- 📱 **Currently learning:** Kotlin, Android Studio, and the fundamentals of building Android apps.
+- 🧠 **What matters to me:** Understanding the reasoning behind the code, not just making it work.
+- 🛠️ **How I learn:** Small practical projects, experimentation, debugging, and documenting what I discover.
+- 🎯 **My goal:** Turn what I learn into useful, maintainable projects and keep improving as a developer.
+
+## 🧰 Technologies & tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bsd-code&show_icons=true&theme=radical&locale=es&hide_border=true&bg_color=0d1117&title_color=6e45e2&icon_color=6e45e2&text_color=ffffff&count_private=true" alt="Estadísticas de GitHub de Bilal" width="100%" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,git,github,idea&theme=dark" alt="Kotlin, Android Studio, Git, GitHub, and IntelliJ IDEA icons" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsd-code&layout=compact&theme=radical&locale=es&hide_border=true&bg_color=0d1117&title_color=6e45e2&text_color=ffffff&langs_count=8" alt="Lenguajes más usados por Bilal" width="60%" />
+  <sub>Technologies I'm learning and tools I'm exploring — this list will grow with my projects.</sub>
+</p>
+
+## 🚀 What I'm working towards
+
+| Focus | Goal |
+| :--- | :--- |
+| **Kotlin** | Strengthen programming fundamentals, functions, classes, and object-oriented concepts. |
+| **Android** | Learn project structure, UI, events, app lifecycle, storage, and permissions. |
+| **Development workflow** | Practise Git, write clearer documentation, and understand debugging and errors. |
+| **Projects** | Apply each new concept in small projects and improve them iteratively. |
+
+## 📊 GitHub overview
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="GitHub activity statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" alt="Most used programming languages in public repositories" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bsd-code&theme=radical&locale=es&hide_border=true&background=0d1117&stroke=6e45e2&ring=6e45e2&fire=6e45e2&currStreakLabel=6e45e2" alt="Racha de contribuciones de Bilal" width="70%" />
+  <sub>These cards depend on a third-party service and primarily reflect activity and languages in public repositories.</sub>
 </p>
+
+## 📌 Projects
+
+I use this profile to share my learning journey, practical exercises, and projects as they take shape. The best way to follow my progress is to check the repositories pinned on my profile.
 
 ---
 
-### 🏆 Mis Logros en GitHub
-
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bsd-code&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="Trofeos de GitHub de Bilal" />
-  </a>
-</p>
-
----
-
-### 🐍 Contribuciones en Modo Oscuro
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bsd-code/bsd-code/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bsd-code/bsd-code/output/github-snake.svg" />
-    <img alt="Serpiente de contribuciones de Bilal" src="https://raw.githubusercontent.com/bsd-code/bsd-code/output/github-snake.svg" />
-  </picture>
-</p>
-
----
-
-### 📫 Conecta Conmigo
-
-<p align="center">
-  <a href="https://linkedin.com/in/bilal-saghir-douiri" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Bilal%20Saghir%20Douiri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Bilal" />
-  </a>
-  <a href="https://www.youtube.com/c/mrsavvy-rl" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/YouTube-MrSavvy--RL-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Canal de YouTube de Bilal" />
-  </a>
+  <i>Learn the fundamentals. Build with purpose. Improve with every commit.</i>
 </p>
 
 <p align="center">
-  <i>“El modo claro me lastima los ojos; el modo oscuro alimenta mi alma.”</i> 🌙
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4338CA,100:0F172A&height=4&section=footer" alt="" width="100%" />
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e45e2,50:88d3ce,100:6e45e2&height=120&section=footer" alt="Footer" width="100%" />
