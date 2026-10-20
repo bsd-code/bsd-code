@@ -137,17 +137,6 @@ public class Developer {
 
 ---
 
-<!-- GRÁFICO DE ACTIVIDAD -->
-<h2 align="center">🌌 Mi actividad en GitHub</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=bsd-code&bg_color=0D1117&color=00F5FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true"
-    width="100%"
-    alt="Gráfico de actividad de GitHub"
-  />
-</p>
-
 <!-- CONTADOR DE VISITAS -->
 <h2 align="center">👁️ Visitas al perfil</h2>
 
