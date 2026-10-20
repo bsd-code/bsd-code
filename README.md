@@ -19,7 +19,7 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bilal-saghir-douiri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bilal-saghir-douiri/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bilal-saghir-douiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bilal-saghir-douiri" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mrsavvy-rl" target="blank"><img align="center" <p>src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mrsavvy-rl" height="30" width="40" /></a>
 </p>
 
