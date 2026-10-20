@@ -1,7 +1,7 @@
 
 <!-- ===================================================== -->
 <!-- BSD-CODE | GITHUB PROFILE README                      -->
-<!-- Sustituye TU_USUARIO_GITHUB por bsd-code en las APIs. -->
+<!-- Sustituye bsd-code por bsd-code en las APIs. -->
 <!-- ===================================================== -->
 
 <!-- BANNER PRINCIPAL -->
@@ -117,12 +117,12 @@ public class Developer {
 <p align="center">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=BC8CFF&text_color=C9D1D9&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=bsd-code&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=BC8CFF&text_color=C9D1D9&rank_icon=github"
     alt="Estadísticas generales de GitHub"
   />
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsd-code&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9"
     alt="Lenguajes más utilizados en GitHub"
   />
 </p>
@@ -130,7 +130,7 @@ public class Developer {
 <!-- RACHA DE CONTRIBUCIONES -->
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=TU_USUARIO_GITHUB&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=FF6B6B&currStreakLabel=00F5FF&sideNums=C9D1D9&dates=8B949E"
+    src="https://streak-stats.demolab.com?user=bsd-code&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=FF6B6B&currStreakLabel=00F5FF&sideNums=C9D1D9&dates=8B949E"
     alt="Racha de contribuciones de GitHub"
   />
 </p>
@@ -142,7 +142,7 @@ public class Developer {
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO_GITHUB&bg_color=0D1117&color=00F5FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=bsd-code&bg_color=0D1117&color=00F5FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true"
     width="100%"
     alt="Gráfico de actividad de GitHub"
   />
@@ -153,7 +153,7 @@ public class Developer {
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=TU_USUARIO_GITHUB&style=for-the-badge&color=7C3AED&label=VISITAS+AL+PERFIL"
+    src="https://komarev.com/ghpvc/?username=bsd-code&style=for-the-badge&color=7C3AED&label=VISITAS+AL+PERFIL"
     alt="Contador de visitas al perfil"
   />
 </p>
