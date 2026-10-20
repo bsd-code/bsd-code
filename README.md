@@ -1,9 +1,3 @@
-<!--
-  README para el perfil de GitHub de Bilal (bsd-code)
-  Rediseñado con un enfoque moderno, oscuro y profesional.
-  Incluye componentes dinámicos y una estructura optimizada para la legibilidad.
--->
-
 <h1 align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e45e2,50:88d3ce,100:6e45e2&height=200&text=Hola%20👋,%20soy%20Bilal&fontSize=40&fontColor=ffffff&animation=fadeIn&section=header" alt="Header de Bilal" />
 </h1>
@@ -51,16 +45,15 @@ Soy un apasionado del desarrollo de **aplicaciones multiplataforma** y de la **i
 ### 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bsd-code&show_icons=true&theme=radical&locale=es&hide_border=true&bg_color=00000000&title_color=6e45e2&icon_color=6e45e2&text_color=ffffff&count_private=true" alt="Estadísticas de GitHub de Bilal" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsd-code&layout=compact&theme=radical&locale=es&hide_border=true&bg_color=00000000&title_color=6e45e2&text_color=ffffff&langs_count=8" alt="Lenguajes más usados por Bilal" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bsd-code&show_icons=true&theme=radical&locale=es&hide_border=true&bg_color=0d1117&title_color=6e45e2&icon_color=6e45e2&text_color=ffffff&count_private=true" alt="Estadísticas de GitHub de Bilal" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bsd-code&theme=radical&locale=es&hide_border=true&background=00000000&stroke=6e45e2&ring=6e45e2&fire=6e45e2&currStreakLabel=6e45e2" alt="Racha de contribuciones de Bilal" width="70%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsd-code&layout=compact&theme=radical&locale=es&hide_border=true&bg_color=0d1117&title_color=6e45e2&text_color=ffffff&langs_count=8" alt="Lenguajes más usados por Bilal" width="60%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bsd-code&theme=radical&bg_color=00000000&color=6e45e2&line=6e45e2&point=ffffff&area=true&hide_border=true" alt="Gráfico de actividad de Bilal" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=bsd-code&theme=radical&locale=es&hide_border=true&background=0d1117&stroke=6e45e2&ring=6e45e2&fire=6e45e2&currStreakLabel=6e45e2" alt="Racha de contribuciones de Bilal" width="70%" />
 </p>
 
 ---
@@ -69,7 +62,7 @@ Soy un apasionado del desarrollo de **aplicaciones multiplataforma** y de la **i
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bsd-code&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="Trofeos de GitHub de Bilal" />
+    <img src="https://github-profile-trophy.vercel.app/?username=bsd-code&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="Trofeos de GitHub de Bilal" />
   </a>
 </p>
 
@@ -102,5 +95,4 @@ Soy un apasionado del desarrollo de **aplicaciones multiplataforma** y de la **i
   <i>“El modo claro me lastima los ojos; el modo oscuro alimenta mi alma.”</i> 🌙
 </p>
 
-<!-- Footer animado -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e45e2,50:88d3ce,100:6e45e2&height=120&section=footer" alt="Footer" width="100%" />
