@@ -153,11 +153,39 @@ My main interest is **Android development with Kotlin**. I like understanding wh
 
 ## 🚀 Featured project
 
-### [Android Backend Cloud App](https://github.com/bsd-code/android-backend-cloud-app)
+### 🧊 [Smart Fridge — Firebase & AI](https://github.com/bsd-code/android-backend-cloud-app)
 
-An ongoing learning project exploring Android development alongside backend and cloud concepts. A learning project focused on Android development and backend/cloud concepts. As it evolves, its repository documentation will describe the implemented features, setup instructions, and technical decisions.
+An Android application developed for the **A1 — Cloud Backend** module at Institut Marianao. It helps each user manage their household fridge or pantry and discover recipe ideas generated from the ingredients they currently have available.
 
-> This project is part of my learning journey. I aim to keep its code, documentation, and setup instructions clear as it evolves.
+<p>
+  <a href="https://github.com/bsd-code/android-backend-cloud-app"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open Smart Fridge repository" /></a>
+  <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=111111" alt="Android application" />
+  <img src="https://img.shields.io/badge/Language-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+</p>
+
+**What it does**
+
+- 🔐 **Authentication:** sign up and sign in with Firebase Authentication using email and password.
+- 🥬 **Ingredient inventory:** create, view, edit and delete ingredients stored in Cloud Firestore, organised by the signed-in user's account.
+- 🧠 **AI recipe suggestions:** request recipe ideas based on ingredients in stock using Firebase AI Logic.
+- 📝 **Readable results:** display the generated recipe's Markdown formatting in a dedicated screen using Markwon.
+- 🧭 **Android UI:** ingredient forms and a live-updating list built with Android Views, ViewBinding and RecyclerView.
+
+**Documented tech stack**
+
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Android%20SDK-3DDC84?style=flat-square&logo=android&logoColor=111111" alt="Android SDK" />
+  <img src="https://img.shields.io/badge/Firebase%20Authentication-FFCA28?style=flat-square&logo=firebase&logoColor=111111" alt="Firebase Authentication" />
+  <img src="https://img.shields.io/badge/Cloud%20Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=111111" alt="Cloud Firestore" />
+  <img src="https://img.shields.io/badge/Firebase%20AI%20Logic-4285F4?style=flat-square&logo=google&logoColor=white" alt="Firebase AI Logic" />
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" alt="Gradle" />
+  <img src="https://img.shields.io/badge/RecyclerView-3DDC84?style=flat-square&logo=android&logoColor=111111" alt="RecyclerView" />
+  <img src="https://img.shields.io/badge/ViewBinding-3DDC84?style=flat-square&logo=android&logoColor=111111" alt="ViewBinding" />
+  <img src="https://img.shields.io/badge/Markwon-Markdown-6E7781?style=flat-square" alt="Markwon Markdown renderer" />
+</p>
+
+> A coursework project focused on learning Android app development, user authentication, cloud data storage and AI integration.
 
 ## 📊 GitHub stats
 
