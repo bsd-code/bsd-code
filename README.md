@@ -72,9 +72,9 @@ Soy un apasionado del desarrollo de **aplicaciones multiplataforma** y de la **i
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bsd-code/bsd-code/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bsd-code/bsd-code/output/snake.svg" />
-    <img alt="Serpiente de contribuciones de Bilal" src="https://raw.githubusercontent.com/bsd-code/bsd-code/output/snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bsd-code/bsd-code/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bsd-code/bsd-code/output/github-snake.svg" />
+    <img alt="Serpiente de contribuciones de Bilal" src="https://raw.githubusercontent.com/bsd-code/bsd-code/output/github-snake.svg" />
   </picture>
 </p>
 
