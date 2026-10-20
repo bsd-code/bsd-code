@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://github.com/bsd-code"><img src="https://img.shields.io/badge/GitHub-bsd--code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-  <a href="https://www.youtube.com/@MrSavvyRL"><img src="https://img.shields.io/badge/YouTube-MrSavvyRL-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube channel MrSavvyRL" /></a>
+  <a href="https://www.youtube.com/@MrSavvy-RL"><img src="https://img.shields.io/badge/YouTube-MrSavvy--RL-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube channel MrSavvy-RL" /></a>
 </p>
 
 ---
@@ -151,30 +151,13 @@ My main interest is **Android development with Kotlin**. I like understanding wh
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude" />
 </p>
 
-## 🚀 Featured projects
+## 🚀 Featured project
 
-<p align="center">
-  <a href="https://github.com/bsd-code/EjerciciosAndroid">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bsd-code&repo=EjerciciosAndroid&theme=tokyonight&hide_border=true" alt="EjerciciosAndroid repository card" />
-  </a>
-  <a href="https://github.com/bsd-code/MyFirebaseApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bsd-code&repo=MyFirebaseApp&theme=tokyonight&hide_border=true" alt="MyFirebaseApp repository card" />
-  </a>
-</p>
+### [Android Backend Cloud App](https://github.com/bsd-code/android-backend-cloud-app)
 
-### [EjerciciosAndroid](https://github.com/bsd-code/EjerciciosAndroid)
+An ongoing learning project exploring Android development alongside backend and cloud concepts. A learning project focused on Android development and backend/cloud concepts. As it evolves, its repository documentation will describe the implemented features, setup instructions, and technical decisions.
 
-Progressive Android exercises and practice projects using Kotlin and classic Android UI. This repository is where I document and reinforce what I'm learning.
-
-**Focus:** Kotlin · Android · XML-based UI · Gradual practice
-
-### [MyFirebaseApp](https://github.com/bsd-code/MyFirebaseApp)
-
-An Android learning project described in its repository as a Kotlin app developed with Android Studio and Firebase integration.
-
-**Focus:** Kotlin · Android Studio · Firebase
-
-> These projects are part of my learning journey. I aim to improve their documentation, structure and testing as my skills grow.
+> This project is part of my learning journey. I aim to keep its code, documentation, and setup instructions clear as it evolves.
 
 ## 📊 GitHub stats
 
@@ -208,7 +191,7 @@ An Android learning project described in its repository as a Kotlin app develope
 
 <p align="center">
   <a href="https://github.com/bsd-code"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.youtube.com/@MrSavvyRL"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.youtube.com/@MrSavvy-RL"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </p>
 
 <!-- When ready, replace these placeholders with your real details and uncomment the links:
